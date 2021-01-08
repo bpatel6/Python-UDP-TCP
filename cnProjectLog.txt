@@ -1,0 +1,26 @@
+D:\Python\pythonProject\cnProject\venv\Scripts\python.exe D:/Python/pythonProject/cnProject/client.py ec2-3-15-17-244.us-east-2.compute.amazonaws.com 12345 'BHAVIK_PATEL'
+UDP data sent: 'BHAVIK_PATEL'
+UDP data received: ec2-3-15-17-244.us-east-2.compute.amazonaws.com 52242
+TCP server: ec2-3-15-17-244.us-east-2.compute.amazonaws.com
+TCP port: 52242
+TCP data sent: hello
+TCP data received: (1) Hello, traveler! On your quest to FINISH THIS PROJECT you approach a scary bridge guarded by a bridge keeper. To cross, you must first answer his three riddles.
+
+Riddle 1: WHAT is your name?
+Next message to send?
+Bhavik Patel
+TCP data sent: Bhavik Patel
+TCP data received: (2) Very well, BHAVIK PATEL. Riddle 2: WHAT is your quest?
+Next message to send?
+finish this project
+TCP data sent: finish this project
+TCP data received: (3) BHAVIK PATEL's quest is to FINISH THIS PROJECT. So be it. Okay, Riddle 3: WHAT is your FAVORITE COLOUR?
+Next message to send?
+purple
+TCP data sent: purple
+TCP data received: (4) Right, off you go. The bridge keeper allows BHAVIK PATEL to cross, granting this as a reward: https://youtu.be/OnWvF_PD2N4
+Next message to send?
+quit
+closing connection, goodbye
+
+Process finished with exit code 0
